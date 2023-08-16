@@ -1,2 +1,2 @@
 # DuelsPlugin
-A simple duels plugin for miencraft spigot
+A simple duels plugin for minecraft spigot
