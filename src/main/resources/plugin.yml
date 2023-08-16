@@ -1,0 +1,6 @@
+name: gunPlugin
+version: '${project.version}'
+main: com.supdapillar.guns.GunPlugin
+api-version: '1.20'
+authors: [Supdapillar]
+description: guns in minecraft
